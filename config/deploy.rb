@@ -9,10 +9,10 @@ require 'mina/git'
 #   repository   - Git repo to clone from. (needed by mina/git)
 #   branch       - Branch name to deploy. (needed by mina/git)
 
-set :application_name, 'codingcoach'
-set :repository, 'https://github.com/Coding-Coach/coding-coach.git'
-set :domain, 'blog.codingcoach.io'
-set :deploy_to, '/var/www/codingcoach.io'
+set :application_name, 'womencancode'
+set :repository, 'https://github.com/Womencancode/womentors.git'
+set :domain, 'blog.womencancode.com'
+set :deploy_to, '/var/www/cwomencancode.com'
 set :branch, 'master'
 
 # Optional settings:
