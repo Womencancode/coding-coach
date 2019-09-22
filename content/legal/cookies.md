@@ -1,6 +1,6 @@
 ---
 title: What Are Cookies
-date: 2019-01-07
+date: 2019-09-22
 path: /legal/cookies
 ---
 As is common practice with almost all professional websites this site uses cookies, which are tiny text files that are downloaded to your computer, to improve your experience. This information describes what they contain, how we use it and why we sometimes need to store these cookies. This information also covers how you can prevent these cookies from being stored; this may, however, downgrade or 'break' certain elements of the site's functionality.
